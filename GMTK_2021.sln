@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMTK_2021", "GMTK_2021.csproj", "{A65779AF-B06F-464D-8458-16D7596CA55D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A65779AF-B06F-464D-8458-16D7596CA55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65779AF-B06F-464D-8458-16D7596CA55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65779AF-B06F-464D-8458-16D7596CA55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65779AF-B06F-464D-8458-16D7596CA55D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909E46A8-EBC2-4285-BD13-3A1AF66306BA}
+	EndGlobalSection
+EndGlobal
